@@ -8,7 +8,7 @@ Welcome! This repository documents my personal journey learning Machine Learning
 
 - [🧠 Machine Learning Basics](docs/machine_learning.md)
 - [🧹 Data Cleaning](docs/data_cleaning.md)
-- 📊 Exploratory Data Analysis (EDA) *(coming soon)*
+- [📊 Exploratory Data Analysis (EDA)](docs/eda.md)
 - 🧪 Model Training *(coming soon)*
 - 🎯 Evaluation + Prediction *(coming soon)*
 
