@@ -1,27 +1,27 @@
 # 🧪 Exploratory Data Analysis (EDA)
 
-This section explores patterns, trends, and relationships in the student performance dataset using Tableau. The goal is to build an understanding of key factors influencing student scores before modeling.
+In this chapter, we explores patterns, trends, and relationships in our dataset using Tableau. The goal is to build an understanding the key factors for  influencing student scores (our dataset scenario) before modeling it.
 
 ---
 
 ## 📊 Graph 1 – Math Score Distribution by Gender
 ![Graph1](./Visual/Graph1.jpg)
 
-We start by looking at how students perform in Math and how scores differ between genders. The histogram shows most students score between 50–80, with a near-normal, bell-shaped curve. Female students seem slightly more represented in higher bins, hinting at a possible performance gap. This gives us an early clue that gender could influence outcomes.
+We have started by looking at how students perform in Math and how scores differ between genders. The histogram shows most students score between 50–80, with a near-normal, bell-shaped curve. Female students seem slightly more represented in higher bins, hinting at a possible performance gap. This gives us an early clue that gender could influence outcomes.
 
 ---
 
 ## 📊 Graph 2 – Average Scores by Gender & Test Prep
 ![Graph2](./Visual/Graph2.jpg)
 
-This grouped bar chart lets us compare average Math, Reading, and Writing scores by gender and test preparation. Across all categories, students who completed the prep course scored higher. Female students with test prep consistently perform best, especially in Writing.
+Then, using a grouped bar chart, we have compare the average Math, Reading, and Writing scores by gender and test preparation. Across all categories, students who completed the prep course scored higher. Female students with test prep consistently perform best, especially in Writing.
 
 ---
 
 ## 📊 Graph 3 – Boxplot of Math Scores
 ![Graph3](./Visual/Graph3.jpg)
 
-Boxplots allow us to examine the spread and outliers of Math scores. Males show a wider distribution and more extreme scores. Females who completed the test prep have the highest median. This confirms consistent trends seen in Graph 2.
+Ploting a boxplots shows us the spread and outliers of Math scores. Males show a wider distribution and more extreme scores. Females who completed the test prep have the highest median. This confirms consistent trends seen in Graph 2.
 
 ---
 
