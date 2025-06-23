@@ -18,6 +18,7 @@ Welcome! This repository documents my personal journey learning Machine Learning
 - 'archive/' - Raw dataset (CSV)
 - 'Loading Dataset/' - Load + Explore dataset
 - 'Cleaning Dataset/' - Clean and preprocess dataset
+- 'EDA/' - EDA summary, Tableau workbook, and visual assets
 - 'README.md' - This file!
 
 ---
