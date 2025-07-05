@@ -98,8 +98,9 @@ Usually, this group of algorithms does this by finding correlations between exis
 
 ![Picture12](./Data%20Modeling%20pictures/Picture12.jpg)
 
-####Example:
+#### Example:
 ![Picture13](./Data%20Modeling%20pictures/Picture13.jpg)
+
 Do you need a picture with high resolution to recognize the plane in the picture below or can you reduce the number of pixels in the image.
 A popular method of dimensionality reduction is called principal component analysis or PCA (more explanation coming soon)
 
